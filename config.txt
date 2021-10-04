@@ -1,0 +1,4 @@
+host = server1.max1021.de
+user = PythonTest
+password = L4GaT7viDeY6
+database = py_1
